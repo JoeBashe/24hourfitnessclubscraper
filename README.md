@@ -8,7 +8,7 @@ python3 -m venv env
 pip install -r requirements.txt
 ```
 
-## club.py
+## `club.py`
 
 Gets the raw data.
 
@@ -18,7 +18,7 @@ Usage:
 ./env/bin/scrapy runspider club.py -o 24hourfitnessclubs.csv
 ```
 
-## data-cleaner.py
+## `data-cleaner.py`
 
 Geocodes the addresses to lat/lon points.
 
