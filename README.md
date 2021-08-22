@@ -22,5 +22,5 @@ Usage:
 
 Geocodes the addresses to lat/lon points.
 
-To use it, get an API key from geocod.io, and add it to the GEOCODIO_API_KEY variable in 
+To use it, get an API key from geocod.io, and add it to the `GEOCODIO_API_KEY` variable in 
 [data-cleaner.py](data-cleaner.py) 
